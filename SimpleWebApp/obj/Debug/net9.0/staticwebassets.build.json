@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "nGH6c0qDrOOWLDxivxHdQYqPaEyWsuPeppusUSf2qWs=",
+  "Source": "SimpleWebApp",
+  "BasePath": "_content/SimpleWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimpleWebApp\\wwwroot",
+      "Source": "SimpleWebApp",
+      "ContentRoot": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\",
+      "BasePath": "_content/SimpleWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\wr6gpbjyk6-dgoqhtsc2j.gz",
+      "SourceId": "SimpleWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SimpleWebApp",
+      "RelativePath": "Index#[.{fingerprint=dgoqhtsc2j}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\Index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t82h3fk2gf",
+      "Integrity": "nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\Index.html",
+      "SourceId": "SimpleWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\",
+      "BasePath": "_content/SimpleWebApp",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgoqhtsc2j",
+      "Integrity": "TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Index.dgoqhtsc2j.html",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\wr6gpbjyk6-dgoqhtsc2j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008928571429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgoqhtsc2j"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM="
+        }
+      ]
+    },
+    {
+      "Route": "Index.dgoqhtsc2j.html",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgoqhtsc2j"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM="
+        }
+      ]
+    },
+    {
+      "Route": "Index.dgoqhtsc2j.html.gz",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\wr6gpbjyk6-dgoqhtsc2j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgoqhtsc2j"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\wr6gpbjyk6-dgoqhtsc2j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008928571429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQM6A/zdaiVsIv4foRQzyEQ537VqYqpudkke8Nmy3fM="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html.gz",
+      "AssetFile": "C:\\Users\\WordInFocus\\Desktop\\Dotnet1\\SimpleWebApp\\obj\\Debug\\net9.0\\compressed\\wr6gpbjyk6-dgoqhtsc2j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 08:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWRu0vdtPUAYtEfWx4GAPaqokwOpnX6wGLAbdtjRgLc="
+        }
+      ]
+    }
+  ]
+}

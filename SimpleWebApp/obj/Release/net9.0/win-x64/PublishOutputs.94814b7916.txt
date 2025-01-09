@@ -1,0 +1,8 @@
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\SimpleWebApp.exe
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\web.config
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\appsettings.json
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\SimpleWebApp.dll
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\SimpleWebApp.deps.json
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\SimpleWebApp.runtimeconfig.json
+C:\Users\WordInFocus\SimpleWebApp\bin\Release\net9.0\win-x64\publish\SimpleWebApp.pdb
